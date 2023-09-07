@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Economics at Georgetown University. My research focuses on International Migration.
+I am a PhD student studying Economics at Georgetown University. My research focuses on International Migration.
 
 A data-driven personal website
 ======
