@@ -1,4 +1,4 @@
-xi# Welcome to Jekyll!
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -7,11 +7,11 @@ xi# Welcome to Jekyll!
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Meixi Wan / Site Title"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Meixi Wan"
-description              : &description "PhD Candidate in Economics"
-url                      : https://meixiwan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Meixi Wan"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "PhD Candidate in Economics"
-  location         : "Washington DC & Beijing"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
