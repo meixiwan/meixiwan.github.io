@@ -7,7 +7,7 @@ i# Welcome to Jekyll!
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Meixi Wan"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
