@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, Georgetown University, 2018 (expected)
+* B.S. in Accounting and Finance, Georgetown University, 2019
+* Ph.D in Economics, Georgetown University, 2024 (expected)
 
 Work experience
 ======
