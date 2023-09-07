@@ -7,7 +7,7 @@ xi# Welcome to Jekyll!
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Meixi Wan"
+title                    : "Meixi Wan / Site Title"
 title_separator          : "-"
 name                     : &name "Meixi Wan"
 description              : &description "PhD Candidate in Economics"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : MeixiWan
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
