@@ -34,7 +34,7 @@ Work experience
   
 Skills
 ======
-* Data Analysis Softwares
+* Data Analysis Software
   * Stata
   * R
   * Matlab
